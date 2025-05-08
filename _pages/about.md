@@ -1,2 +1,2 @@
 
-"This homepage is a work in progress. More information will be available soon~"
+### This homepage is a work in progress — more information coming soon!
