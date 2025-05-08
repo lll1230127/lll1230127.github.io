@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "屏幕截图(69).png"
   name             : "Weiyuan Li"
-  pronouns         : him
-  bio              : "21 NKUcs -> 25 FDUds"
+  pronouns         : 
+  bio              : "21 NKUcs -> 25 FDUds  email：weiyuanli127@gmail.com"
   location         : "China Tianjin"
   employer         : "Fudan University"
   uri              : # URL
-  email            : "2112338@gmail.com" 
+  email            : "weiyuanli127@gmail.com" 
 
   # Academic websites
   academia         : # URL
