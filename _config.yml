@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zn-CN"
 site_theme               : "default"
-title                    : Weiyuan Li / Homepage"
+title                    : Weiyuan Li / Homepage
 title_separator          : "-"
 name                     : &name "Weiyuan Li"
 description              : &description "21 NKUcs -> 25 FDUds"
